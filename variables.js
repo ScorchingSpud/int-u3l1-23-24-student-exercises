@@ -1,11 +1,14 @@
 // CODE ALONG, PART 1
 let favoriteColor;
+favoriteColor = 'Blue'
 
 // 1. Create a variable called `favoriteFood`.
 
+let favoriteFood = 'Tuna'
 
 // 2. Create a variable called `favoriteNumber`.
 
+let favoriteNumber = 69
 
 
 
@@ -16,3 +19,7 @@ let favoriteColor;
 // - Use a number value of your favorite number.
 
 // 4. Console log each variable on a new line.
+
+console.log(favoriteColor)
+console.log(favoriteFood)
+console.log(favoriteNumber)
